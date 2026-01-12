@@ -1,6 +1,6 @@
 ## Test Case: Login displays validation message when username contains trailing spaces
 
-**Test Case ID:** TC-LOGIN-002  
+**Test Case ID:** TC-LOGIN-001  
 **Module:** Login  
 **Test Type:** Functional / Negative  
 
